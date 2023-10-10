@@ -1,5 +1,5 @@
-![IMAGEN-DECORATIVA-DEL-PERFIL](https://github.com/BetziPastrana/BetziPastrana/assets/147457209/9c0e5322-925f-43fb-a027-971e30ecb53f)
 
+![IMAGEN-DECORATIVA-DEL-PERFIL](https://github.com/BetziPastrana/BetziPastrana/assets/147457209/3b830cde-ec21-4341-a15e-bcdd08463162)
 
 
 <h1 align="center">Hi 👋, I´m Betzi Pastrana</h1>
