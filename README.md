@@ -1,3 +1,7 @@
+![IMAGEN-DECORATIVA-DEL-PERFIL](https://github.com/BetziPastrana/BetziPastrana/assets/147457209/9c0e5322-925f-43fb-a027-971e30ecb53f)
+
+
+
 <h1 align="center">Hi 👋, I´m Betzi Pastrana</h1>
 <h3 align="center">A passionate Full-Stack Developer and Tester from Acapulco</h3>
 
