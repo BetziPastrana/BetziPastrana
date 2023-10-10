@@ -7,17 +7,11 @@
 
 - 🌱 I’m currently learning **Kotlin,react native**
 
-- 👯 I’m looking to collaborate on **TONGO SOFTWARE**
-
-- 🤝 I’m looking for help with **GESTIÓN DE PROYECTOS Y CASOS DE PRUEBAS**
-
 - 💬 Ask me about **html,css,php,javascript,react,node js, java,c#,**
 
 - 📫 How to reach me **pastranabetzi@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/18rtFrYjpuvwb6RV_zAS4deU9quVUi8nQT-V3Vn1mckw/edit?usp=sharing](https://docs.google.com/document/d/18rtFrYjpuvwb6RV_zAS4deU9quVUi8nQT-V3Vn1mckw/edit?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
