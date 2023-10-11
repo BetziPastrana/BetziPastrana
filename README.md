@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pastranabetzi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/18rtFrYjpuvwb6RV_zAS4deU9quVUi8nQT-V3Vn1mckw/edit?usp=sharing](https://docs.google.com/document/d/18rtFrYjpuvwb6RV_zAS4deU9quVUi8nQT-V3Vn1mckw/edit?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1hTabWOSoR4MC_2yxaclYUlYvV2hpNQI7/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
