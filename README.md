@@ -3,11 +3,11 @@
 
 
 <h1 align="center">Hi 👋, I´m Betzi Pastrana</h1>
-<h3 align="center">A passionate Full-Stack Developer and Tester from Acapulco</h3>
+<h3 align="center">A passionate Full-Stack Developer and Tester from CDMX</h3>
 
 - 🌱 I’m currently learning **Kotlin,react native**
 
-- 💬 Ask me about **html,css,php,javascript,react,node js, java,c#,**
+- 💬 Ask me about **React, Angular, Java, SQL,FLUTTER,HTML,CSS,PHP,Javascript,Node js,c#,**
 
 - 📫 How to reach me **pastranabetzi@gmail.com**
 
