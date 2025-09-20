@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin,react native**
 
-- 💬 Ask me about **React, Angular, Java, SQL,FLUTTER,HTML,CSS,PHP,Javascript,Node js,c#,**
+- 💬 Ask me about **React, Angular,Vue.js, Java, Laravel, .NET, SQL,FLUTTER,HTML,CSS,PHP,Javascript,Node js,c#,**
 
 - 📫 How to reach me **pastranabetzi@gmail.com**
 
